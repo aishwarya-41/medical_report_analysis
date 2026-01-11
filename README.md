@@ -248,6 +248,7 @@ http://localhost:5173
 * Answers are informational only.
 * Large PDFs may increase memory usage.
 * No persistent user history or authentication.
+* False out of range.
 
 ---
 
@@ -283,5 +284,6 @@ Feel free to fork the repository and submit a pull request.
 Distributed under the MIT License.
 
 ---
+
 
 
